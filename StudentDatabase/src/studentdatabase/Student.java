@@ -38,7 +38,7 @@ public class Student {
         this.studentId =  gradeYear + "" + id;
     }
 
-    // enroll in courses
+    // enroll in courses 코스에 등록하기
     public void enroll() {
         //Get inside a loop, user hits 0
 
